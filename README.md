@@ -16,26 +16,6 @@ Installera beroenden från projektets rotmapp:
 pip install -r requirements.txt
 
 
-## Data
-
-Lägg filen `orders.csv` i mappen:
-
-data/orders.csv
-
-
-CSV-filen ska innehålla följande obligatoriska kolumner:
-
-
-order_id
-order_date
-customer_id
-region
-product_category
-quantity
-unit_price
-discount
-returned
-
 
 ## Köra programmet
 
